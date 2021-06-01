@@ -1,4 +1,3 @@
-# upload-file
 # Upload a file using Flask
 
 1. Place the folder in a directory of choice

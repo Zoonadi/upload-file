@@ -1,5 +1,5 @@
 # upload-file
-# An Upload functionality using Flask
+# Upload a file using Flask
 
 File upload App using Flask How to run the app
 

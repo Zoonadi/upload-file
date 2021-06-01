@@ -11,11 +11,11 @@ File upload App using Flask How to run the app
 
 $ py -3 -m venv venv or python3 -m venv venv
 
-Activate the environment - Before you work on your project, activate the corresponding environment:
+4. Activate the environment - Before you work on your project, activate the corresponding environment:
 $ venv\Scripts\activate or . venv/bin/activate
 
-Install Flask - Within the activated environment, use the following command to install Flask:
+5. Install Flask - Within the activated environment, use the following command to install Flask:
 $ pip install Flask
 
-Run The Application (main.py)
+6. Run The Application (main.py)
 $ python main.py or py main.py

@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"><br>
+</div>
+
+-----------------
+
 # Upload a file using Flask
 
 This upload tutorial was collected from [here](https://flask.palletsprojects.com/en/2.0.x/patterns/fileuploads/)
